@@ -1,0 +1,13 @@
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import "./node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+
+.jumbotron{
+	background-color: red;
+}
+#header{
+	color: green;
+	p{
+		color: #E9F11D;
+	}
+}
+
